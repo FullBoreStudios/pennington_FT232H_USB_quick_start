@@ -8,6 +8,9 @@ Get started quickly with the FT232H USB Type C Breakout from Adafruit
   - https://sourceforge.net/projects/libusb/files/libusb-1.0/libusb-1.0.20/
 
     
+# Pinout
+![PINOUT USB TYPE C](https://i.imgur.com/aUwAdZl.png)
+
   
 
 
