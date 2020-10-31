@@ -1,6 +1,10 @@
 # Pennington Station: FT232H USB quick start project
 Get started quickly with the FT232H USB Type C Breakout from Adafruit
 
+# always...
+> set BLINKA_FT232H=1
+
+
 ## Windows Dev Utilities
 - follow instructions here
   - https://learn.adafruit.com/circuitpython-on-any-computer-with-ft232h/windows
@@ -12,5 +16,6 @@ Get started quickly with the FT232H USB Type C Breakout from Adafruit
 ![PINOUT USB TYPE C](https://i.imgur.com/aUwAdZl.png)
 
   
-
-
+# Links
+- https://github.com/adafruit/awesome-stemma
+- https://shop.pimoroni.com/collections/stemma-qt
